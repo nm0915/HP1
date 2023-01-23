@@ -1,0 +1,166 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.pc {display: inline!important;}
+.mb {display: none!important;}
+html, body {
+  font-family: "ヒラギノ角ゴシック";
+	ext-decoration: none;
+	 list-style: none;
+    margin: auto;
+}
+
+.top{
+    width: 100%;
+    height: auto;
+position: relative;
+left: 0px;
+top: 0px;
+}
+.header{position: absolute;
+width: 65px;
+height: 65px;
+left: 1425px;
+top: 32px;
+}
+.icon1{position: absolute;
+width: 162.98px;
+height: 162.98px;
+left: 1109px;
+top: 535.3px;
+}
+.icon2{position: absolute;
+width: 226px;
+height: 207.52px;
+left: 1204.07px;
+	top: 603.48px;}
+.messege{
+    width: 100%;
+    height: auto;
+position: relative;
+left: 0px;
+top: 0px;
+}
+.recruitsicon1{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 253px;
+top: 3876px;
+}
+
+.recruitsicon2{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 527px;
+top: 3876px;
+}
+
+.recruitsicon3{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 801px;
+top: 3876px;
+}
+
+.recruitsicon4{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 1075px;
+top: 3876px;
+}
+
+.recruitsicon5{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 390px;
+top: 4111px;
+}
+
+.recruitsicon6{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 664px;
+top: 4111px;
+}
+
+.recruitsicon7{position: absolute;
+width: 202.24px;
+height: 203.09px;
+left: 938px;
+top: 4111px;
+}
+
+.pay{
+    width: 100%;
+    height: auto;
+position: relative;
+left: 0px;
+top: 0px;
+}
+
+.project{
+    width: 100%;
+    height: auto;
+position: relative;
+left: 0px;
+top: 0px;
+}
+
+.todai{position: absolute;
+width: 507px;
+height: 441px;
+left: 3px;
+top: 7394px;
+}
+
+.kojinn{position: absolute;
+width: 507px;
+height: 441px;
+left: 500px;
+top: 7394px;}
+
+.souki{position: absolute;
+width: 507px;
+height: 441px;
+left: 1007px;
+top: 7394px;}
+
+.more{position: absolute;
+width: 294px;
+height: 101px;
+left: 608px;
+top: 7870px;}
+
+.membericon{position: absolute;
+width: 294px;
+height: 101px;
+left: 609px;
+top: 10742px;}
+
+.oubo{position: absolute;
+width: 301.79px;
+height: 129.54px;
+left: 409px;
+top: 11582px;
+}
+
+.otoiawase{position: absolute;
+width: 301.79px;
+height: 129.54px;
+left: 802px;
+top: 11582px;
+}
+
+.appendix{
+position: absolute;
+width: 1139px;
+height: 875px;
+left: 186px;
+top: 12037px;
+}
+
+.fotter{position: absolute;
+width: 1512px;
+height: 400px;
+left: 0px;
+top: 13125px;}
